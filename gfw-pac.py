@@ -1,6 +1,8 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+## use for v2rayX pac.js
+
 import re
 import math
 import socket
